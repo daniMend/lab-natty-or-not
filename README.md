@@ -20,19 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: "Codificando o Futuro: Explorando as Linguagens de Programação que Movem o Mundo"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast de 3 minutos oferece um passeio rápido, nas 5 principais linguagens de programação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- Software **[CapCut](https://www.capcut.com/pt-br/)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "CapCut" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução às linguagens de programação mais populares.
+- [Podcast](/Podcast.MP3)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
